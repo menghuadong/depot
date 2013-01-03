@@ -9,3 +9,12 @@ two:
   title: MyString
   description: MyText
   image_url: MyString
+
+ruby:
+ title: Test1
+ description: unique_test
+ image_url: ruby.jpg
+ price: 22
+
+
+
