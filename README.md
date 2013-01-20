@@ -1,4 +1,4 @@
 Depot
 =====
 
-Depot for rails study following <<agile web development with Rails >> fourth edition
+Depot for rails study following Agile web development with Rails  fourth edition
